@@ -1,2 +1,2 @@
 # IA-Generativa
-IA Generativa
+Aprendi que IA generativa, como Copilot e OpenAI, pode extrair e interpretar textos de imagens usando tecnologias como OCR (Reconhecimento Óptico de Caracteres). Esses sistemas identificam padrões visuais em fotos ou documentos digitalizados e os convertem em texto editável. A precisão depende da qualidade da imagem e do modelo treinado. Ferramentas como Azure AI Vision aplicam ainda processamento linguístico para entender o contexto extraído. Isso é útil para digitalizar recibos, livros ou placas, transformando conteúdo visual em dados estruturados.
